@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=input\ x\ indx\ fsf
+comment0.target=int[]\ Indexes(int[],\ int,\ int,\ int)
+comment1.params=input\ x
+comment1.target=int[]\ allIndexes(int[],\ int)
+comment2.params=
+comment2.target=int[]\ takeInput()
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4

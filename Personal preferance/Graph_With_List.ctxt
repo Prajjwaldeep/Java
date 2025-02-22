@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=nodes
+comment0.target=Graph_With_List(int)
+comment1.params=u\ v
+comment1.target=void\ addEdge(int,\ int)
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment3.params=s
+comment3.target=void\ BFS_Search(int)
+comment4.params=s
+comment4.target=void\ DFS_Search(int)
+comment5.params=
+comment5.target=void\ DFS_Recursive()
+comment6.params=v\ visited
+comment6.target=void\ DFS_Recursive(int,\ boolean[])
+comment7.params=args
+comment7.target=void\ main(java.lang.String[])
+numComments=8

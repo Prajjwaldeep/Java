@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=x
+comment0.target=boolean\ isPrime(int)
+comment1.params=x
+comment1.target=boolean\ isPalin(int)
+comment2.params=
+comment2.target=void\ showPalPrime()
+comment2.text=\ Function\ showPalPrime(\ )\ accepts\ the\ lower\ and\ upper\ limit,\ and\ prints\ all\ the\ PalPrime\ numbers\r\nin\ between\ that\ range\ by\ sending\ each\ numbers\ in\ the\ range\ to\ both\ the\ functions\ isPrime(\ )\ and\ isPalin(\ )
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4

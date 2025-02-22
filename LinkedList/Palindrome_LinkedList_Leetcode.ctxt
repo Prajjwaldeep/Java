@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Node\ takeInput()
+comment1.params=head
+comment1.target=Node\ midpoint(Node)
+comment2.params=head
+comment2.target=Node\ reverse(Node)
+comment3.params=head
+comment3.target=boolean\ isPalindrome(Node)
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5

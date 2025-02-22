@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.params=n
+comment0.target=Circular_Queue(int)
+comment1.params=item
+comment1.target=void\ insertqueue(int)
+comment1.text=Method\ to\ insert\ queue\ element
+comment2.params=
+comment2.target=void\ deletequeue()
+comment2.text=Method\ to\ delete\ queue\ element
+comment3.params=
+comment3.target=void\ display()
+comment3.text=displaying\ queue\ elements
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ input()
+comment1.params=s
+comment1.target=void\ convert(int)
+comment1.text=The\ below\ function\ stores\ Non-Boundary\ elements\r\n\ from\ array\ A[][]\ to\ array\ B[]\ if\ s\=1\r\n\ else\ stores\ the\ Non-Boundary\ elements\ in\ array\ A[][]\ from\ array\ B[]\r\n
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+numComments=3

@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=rn
+comment0.target=void\ setrollnumber(int)
+comment1.params=
+comment1.target=int\ getrollnumber()
+numComments=2

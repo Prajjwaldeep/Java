@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Node\ takeInput()
+comment1.params=head
+comment1.target=Node\ reverse(Node)
+comment2.params=head
+comment2.target=void\ print(Node)
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4

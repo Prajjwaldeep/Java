@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=emp_da
+comment0.target=void\ setter(int)
+comment1.params=type
+comment1.target=int\ getter(char)
+numComments=2

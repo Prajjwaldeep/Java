@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=n\ prime
+comment0.target=void\ sieve(int,\ boolean[])
+comment1.params=n
+comment1.target=void\ printPrimeTriplets(int)
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+numComments=3

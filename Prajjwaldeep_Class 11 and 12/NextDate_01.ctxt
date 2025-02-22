@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=year
+comment0.target=boolean\ Leap(int)
+comment1.params=dayNumber\ year
+comment1.target=int\ month_extract(int,\ int)
+comment2.params=dayNumber\ year
+comment2.target=int\ day_extract(int,\ int)
+comment3.params=date
+comment3.target=java.lang.String\ getsuffix(int)
+comment4.params=date\ month\ year
+comment4.target=void\ printpresentdate(int,\ int,\ int)
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6

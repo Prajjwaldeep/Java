@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=x
+comment0.target=boolean\ leap(int)
+comment1.params=day\ year
+comment1.target=int\ date_calculate(int,\ int)
+comment2.params=day\ year
+comment2.target=int\ month_calculate(int,\ int)
+comment3.params=q
+comment3.target=java.lang.String\ suffix(int)
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5

@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment0.text=The\ entry\ main\ method\ (the\ program\ starts\ here)
+comment1.params=
+comment1.target=void\ initGame()
+comment1.text=Initialize\ the\ game-board\ contents\ and\ the\ current\ states
+comment2.params=theSeed
+comment2.target=void\ playerMove(int)
+comment2.text=\ Player\ with\ the\ "theSeed"\ makes\ one\ move,\ with\ input\ validation.\r\nUpdate\ global\ variables\ "currentRow"\ and\ "currentCol".
+comment3.params=theSeed\ currentRow\ currentCol
+comment3.target=void\ updateGame(int,\ int,\ int)
+comment3.text=\ Update\ the\ "currentState"\ after\ the\ player\ with\ "theSeed"\ has\ placed\ on\r\n(currentRow,\ currentCol).
+comment4.params=
+comment4.target=boolean\ isDraw()
+comment4.text=Return\ true\ if\ it\ is\ a\ draw\ (no\ more\ empty\ cell)
+comment5.params=theSeed\ currentRow\ currentCol
+comment5.target=boolean\ hasWon(int,\ int,\ int)
+comment5.text=\ Return\ true\ if\ the\ player\ with\ "theSeed"\ has\ won\ after\ placing\ at\r\n(currentRow,\ currentCol)
+comment6.params=
+comment6.target=void\ printBoard()
+comment6.text=Print\ the\ game\ board
+comment7.params=content
+comment7.target=void\ printCell(int)
+comment7.text=Print\ a\ cell\ with\ the\ specified\ "content"
+numComments=8

@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=ind\ arr\ n\ ds\ ans
+comment0.target=void\ generate_subsequences(int,\ int[],\ int,\ java.util.List,\ java.util.List)
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

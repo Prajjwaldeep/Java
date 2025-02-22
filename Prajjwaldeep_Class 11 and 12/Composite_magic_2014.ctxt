@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=x
+comment0.target=boolean\ composite(int)
+comment1.params=x
+comment1.target=int\ sum(int)
+comment2.params=x
+comment2.target=int\ magic(int)
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4

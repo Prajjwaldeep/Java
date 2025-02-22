@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=mm\ nn
+comment0.target=EqMat(int,\ int)
+comment1.params=
+comment1.target=void\ readarray()
+comment2.params=P\ Q
+comment2.target=int\ check(EqMat,\ EqMat)
+comment3.params=
+comment3.target=void\ print()
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5

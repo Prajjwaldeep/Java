@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=ind\ sum\ arr\ n\ ds\ k
+comment0.target=boolean\ subsequence(int,\ int,\ int[],\ int,\ java.util.List,\ int)
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

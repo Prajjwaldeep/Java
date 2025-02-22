@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment0.text=\r\n\ \ \ \ public\ static\ int\ fibo(int\ n,\ int\ dp[])\r\n\ \ \ \ {\r\n\ \ \ \ \ \ \ \ if(n\=\=0\ ||\ n\=\=1)\r\n\ \ \ \ \ \ \ \ {\r\n\ \ \ \ \ \ \ \ \ \ \ \ return\ n;\r\n\ \ \ \ \ \ \ \ }\r\n\ \ \ \ \ \ \ \ if(dp[n]\!\=-1)\r\n\ \ \ \ \ \ \ \ {\r\n\ \ \ \ \ \ \ \ \ \ \ \ return\ dp[n];\r\n\ \ \ \ \ \ \ \ }\r\n\ \ \ \ \ \ \ \ return\ dp[n]\=fibo(n-1,\ dp)+fibo(n-2,\ dp);\r\n}
+numComments=1

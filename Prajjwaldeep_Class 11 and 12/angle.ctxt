@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=angle()
+comment1.params=
+comment1.target=void\ inputangle()
+comment2.params=ob1\ ob2
+comment2.target=void\ display(angle,\ angle)
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4

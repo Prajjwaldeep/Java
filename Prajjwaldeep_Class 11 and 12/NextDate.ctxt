@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=year
+comment0.target=boolean\ isLeapYear(int)
+comment1.params=dayNumber\ year
+comment1.target=int\ getMonthNumber(int,\ int)
+comment2.params=dayNumber\ year
+comment2.target=int\ getDay(int,\ int)
+comment3.params=day
+comment3.target=java.lang.String\ getSuffix(int)
+comment3.text=A\ function\ to\ get\ suffix\ \r\n\ if\ day\ is\ 1\ or\ day\ is\ 21\ or\ day\ is\ 31\ ,\ print\ "ST"\r\n\ if\ day\ is\ 2\ or\ day\ is\ 22\ ,\ print\ "ND"\r\n\ if\ day\ is\ 3\ or\ day\ is\ 23\ ,\ print\ "RD"\r\n\ for\ other\ days,\ print\ "TH"\r\n
+comment4.params=day\ month\ year
+comment4.target=void\ printDate(int,\ int,\ int)
+comment5.params=year
+comment5.target=int\ getNumDays(int)
+comment6.params=args
+comment6.target=void\ main(java.lang.String[])
+numComments=7

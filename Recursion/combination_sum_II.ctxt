@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=arr\ ds\ ans\ ind\ target
+comment0.target=void\ generate_combos(int[],\ java.util.List,\ java.util.List,\ int,\ int)
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

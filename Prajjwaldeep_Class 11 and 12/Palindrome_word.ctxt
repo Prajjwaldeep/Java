@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=word
+comment0.target=boolean\ isPalindrome(java.lang.String)
+comment1.params=word
+comment1.target=java.lang.String\ getPalindromeForRepeatingLastCharacters(java.lang.String)
+comment2.params=word
+comment2.target=java.lang.String\ convertToPalindrome(java.lang.String)
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4

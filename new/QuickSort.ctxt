@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=input
+comment0.target=void\ quickSort(int[])
+comment1.params=input\ sI\ eI
+comment1.target=void\ quickSort(int[],\ int,\ int)
+comment2.params=input\ sI\ eI
+comment2.target=int\ partition(int[],\ int,\ int)
+comment3.params=
+comment3.target=int[]\ takeInput()
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5

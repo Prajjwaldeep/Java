@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=nm\ f\ db\ ph
+comment0.target=Details_Emp(java.lang.String,\ java.lang.String,\ java.lang.String,\ long)
+comment1.params=
+comment1.target=void\ display()
+numComments=2
